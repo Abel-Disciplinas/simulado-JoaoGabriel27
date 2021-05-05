@@ -9,5 +9,5 @@ function bhaskara(a, b, c)
     return r1, r2 
   else
     return r2, r1
-  end 
+  end  
 end
